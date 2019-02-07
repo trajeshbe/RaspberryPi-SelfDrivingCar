@@ -7,7 +7,7 @@ Scope of this Project:
 A Simple self driving car which can keep within Road  
 Capable of detecting objects.  
 
-components:  
+Components:  
 -----------
 
 Sun Founder Smart Video Car Kit V2.0  
@@ -19,7 +19,7 @@ Machine Learning/Deep Learning – Convolution Neural Networks
 Tensorflow(1.4)/ TFLearn  
 Laptop - Acer Predator (NVIDIA GTX 1060)  
 
-design process:  
+Design process:  
 ---------------
 Assemble the Sun founder Car.  
 Setup Raspberry Pi (Jessie)  
